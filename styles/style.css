@@ -1,0 +1,37 @@
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.panda-bg {
+    background-color: #fceae8;
+}
+
+.bg-radius {
+    border-radius: 20px !important;
+}
+
+.bg-w {
+    background-color: orange;
+}
+
+.bg-b {
+    background-color: orchid;
+}
+
+.bg-s {
+    background-color: blue;
+}
+
+.s-h2,
+.s-p {
+    color: black !important;
+}
+
+.c-img {
+    width: 50% !important;
+}
